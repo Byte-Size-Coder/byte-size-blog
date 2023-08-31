@@ -29,15 +29,24 @@ const PostContent: React.FC<IPostContentProps> = ({ post }) => {
 
 			if (node.children[0].tagName === 'img') {
 				const image = node.children[0];
+				console.log(image);
 				return (
 					<div className={classes.image}>
 						<Image
 							src={`/images/posts/${post.slug}/${image.properties.src}`}
 							alt={image.properties.alt}
 							width={600}
-							height={300}
+							height={600}
 						/>
 					</div>
+				);
+			}
+
+			if (node.children[0].tagName === 'a') {
+				return (
+					<p style={{ display: 'flex', justifyContent: 'center' }}>
+						{paragraph.children}
+					</p>
 				);
 			}
 
