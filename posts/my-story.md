@@ -1,6 +1,6 @@
 ---
-title: 'My Story'
-date: '2023-08-31'
+title: "My Story"
+date: "2023-08-31"
 image: me.jpg
 excerpt: A breif journey from when I started programming, to where I am today in my career.
 isFeatured: true
@@ -25,7 +25,7 @@ The experience was amazing. I took the Video Game Design and Development program
 
 It was also challenging, being there was only 2 programmers left in our term, I had to carry an enormous amount of responsibility to deliver a final product to present. I spent countless hours working to create player mechanics, AI enemies, and a stable UI. It was all worth it at the end, as we were able to present our final game called Capstan Gate. You can find a gameplay preview of it here.
 
-[![CapstanGate](https://img.youtube.com/vi/ML6IaVAjkMs/0.jpg)](https://www.youtube.com/watch?v=ML6IaVAjkMs&t=4s 'Capstan Gate')
+[![CapstanGate](https://img.youtube.com/vi/ML6IaVAjkMs/0.jpg)](https://www.youtube.com/watch?v=ML6IaVAjkMs&t=4s "Capstan Gate")
 
 It was not perfect, and definitely had signs of incompletion, but overall the game ran and provided an experience. It was something we all can be proud of to show as our first attempt at a game! I learned so much through it not just from a technical standpoint, but through team work and collaboration as well.
 
@@ -41,7 +41,7 @@ This is where my interests for web development grew, and I knew I could see myse
 
 Since school, I have been apart of some great teams working on awesome projects! These ranged from full-time jobs working on web application, to helping former students start their own indie game studio! I even got to design, develop, and publish my own app under their name! It has since been taking down, but to see a project start to finish is something I am very proud of, and I learned so much from.
 
-![My Office](office.jpg)
+![My Office|504|380](office.jpg)
 
 Now I am just continue to grow. I have made a gameplan of the skillsets I want to have, and try my best to learn them and get certifications. My goal is to become an experienced Web and Game Developer who specializes in Front-End, UI, and gameplay! So that has put my focus on things like Unity, Unreal, C#, C++, JavaScript, React and Node! But I am also opening the door to cloud base solutions like AWS and GCP so I have have some full-stack experience as well. I am making progress, but know there is always room to grow!
 
@@ -49,4 +49,4 @@ Now I am just continue to grow. I have made a gameplan of the skillsets I want t
 
 If you had read this far, thank you very much! I appreciate you taking the time to get to know more about me. One final take away is no matter what, make sure you enjoy what you love. My dad was a Landscaper. He did not make a ton of money, but he was so happy with what he did. And he always told me being able to take a step back and look at your creation and know "I did this" was everything for him to keep going. And I am happy to say thats excatly how I feel in my career right now!
 
-![Me with my boys!](mewithpups.jpg)
+![Me with my boys!|504|504](mewithpups.jpg)
